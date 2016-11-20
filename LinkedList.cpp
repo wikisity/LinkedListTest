@@ -1,10 +1,8 @@
 /*********************
  * File: LinkedList.cpp
- * Project: CMSC 202 Project 3, Fall 2016
  * Author: Arnold Epanda
  * Date: 9/19/2016
- * Section 4
- * Email: aepanda1@umbc.edu
+ * Email: behlarnold@gmail.com
 
  * This c++ file contains LinkedList header file and an implementation
  * of all functions declared in the LinkedList header file. This file
